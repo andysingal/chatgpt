@@ -1,6 +1,8 @@
 # chatgpt
 
 | [**Awesome chatgpt prompts**](https://github.com/Sven-Bo/awesome-chatgpt-prompts) |
+<br />
+! [**Data Analysis Prompts**](https://pub.towardsai.net/chatgpt-guide-for-data-scientists-top-40-most-important-prompts-cdb911f3a427) |
 
 
 <p>
