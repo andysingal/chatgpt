@@ -16,7 +16,7 @@ attachment_path = os.path.join(os.path.dirname(workbook_path), 'Attachments')
 smtp_server = 'smtp.gmail.com'
 smtp_port = 587
 smtp_username = 'andysingal@gmail.com'
-smtp_password = 'gfqhcfjlotfavsbo'
+smtp_password = ''
 smtp_conn = smtplib.SMTP(smtp_server, smtp_port)
 smtp_conn.ehlo()
 smtp_conn.starttls()
